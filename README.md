@@ -5,4 +5,4 @@ A lightweight script to launch XFCE desktop on any Linux (Colab, SSHX, or VPS) a
 ## Usage (One Line Command)
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/ubuntu-gui-server/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/semzx/ubuntu-gui-server/main/setup.sh)
